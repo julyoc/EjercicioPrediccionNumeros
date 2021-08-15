@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#0E3337",
+			"titleBar.activeBackground": "#14474D",
+			"titleBar.activeForeground": "#F3FBFC",
+			"activityBar.foreground": "#F3FBFC"
+		},
+		"cSpell.words": [
+			"Apren",
+			"Aprendizaje",
+			"Proba",
+			"Xdata",
+			"Ydata",
+			"crearpeso",
+			"datox",
+			"datoy",
+			"itera",
+			"iteracciones",
+			"numpy"
+		]
+	}
+}
